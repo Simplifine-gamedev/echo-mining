@@ -17,13 +17,7 @@ A Minecraft Fabric mod that adds a sonar pulse effect when mining blocks, reveal
   - Coal: Dark Gray
 - **Cooldown**: 5-second cooldown between pulses to balance gameplay
 
-## Screenshots
 
-![Screenshot 1](screenshot-1.png)
-
-![Screenshot 2](screenshot-2.png)
-
-![Screenshot 3](screenshot-3.png)
 
 ## Requirements
 
